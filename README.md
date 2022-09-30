@@ -24,7 +24,7 @@ This repo QR Code
 
 # Addresses
 
-[Registration](https://goerli.etherscan.io/address/0xff3ba1e249b356638253c709c8338094b6d66eaf)
+[Registration](https://goerli.etherscan.io/address/0x55db7405aE7e0aD4307b50ca145d2F9fEfE08f1D)
 
 Register your team address (the addresses that will hold the NFTs) and a team name. This is how you will be scored.
 
